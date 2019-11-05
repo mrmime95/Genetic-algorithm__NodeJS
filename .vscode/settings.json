@@ -1,0 +1,11 @@
+{
+    "prettier.parser": "flow",
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "es5",
+    "typescript.validate.enable": false,
+    "flow.showUncovered": true,
+    "javascript.validate.enable": false,
+    "editor.formatOnSave": true
+}
